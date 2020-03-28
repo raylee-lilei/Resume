@@ -905,7 +905,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Services Item */
 .services {
-  background: #F0F0F0;
+  background: #F8F8FF;
 }
 
 .services-item {
